@@ -1,7 +1,7 @@
 import { create } from 'apisauce';
 
 const base = {
-  production: 'https://api.sandbox.com.br',
+  production: 'http://localhost:4010',
   development: 'http://localhost:4010',
 };
 
